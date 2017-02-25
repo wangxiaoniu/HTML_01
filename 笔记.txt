@@ -1,0 +1,6 @@
+colspan="x"===>x个td进行合并
+rowspan呢？
+ <figure>标签
+article
+section
+aside标签可以在里面嵌套标题和内容
